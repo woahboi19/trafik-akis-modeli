@@ -1,0 +1,4 @@
+﻿  Arayüz.cpp
+c:\users\anil_\source\repos\arayüz\arayüz\arayüz.cpp(951): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+c:\users\anil_\source\repos\arayüz\arayüz\arayüz.cpp(1121): warning C4715: 'Onay': tüm denetim yolları değer döndürmez
+  Arayüz.vcxproj -> C:\Users\anil_\source\repos\Arayüz\Debug\Arayüz.exe
